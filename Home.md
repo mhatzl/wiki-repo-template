@@ -18,10 +18,10 @@ A short overview on how to use this wiki is given in [README.md](README.md).
 - [Decision Records](7-Decision-Records/7-Decision-Records.md)
 - [Risk and Technical Debt](8-Risk-and-Technical-Debt.md)
 - [Views](9-Views/9-Views.md)
-- [Exchanges](10-Exchanges/10-Exchanges.md)
-- [FAQs](11-FAQs.md)
-- [Templates](12-Templates/12-Templates.md)
-- [Glossary](13-Glossary.md)
+- [Exchanges](Exchanges/Exchanges.md)
+- [FAQs](FAQs.md)
+- [Templates](Templates/Templates.md)
+- [Glossary](Glossary.md)
 
 # Introduction and Goals
 
