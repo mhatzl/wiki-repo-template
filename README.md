@@ -1,3 +1,3 @@
-# wiki-repo-template
+# GitHub Wiki Template
 
-Repository template to manage GitHub wikis.
+

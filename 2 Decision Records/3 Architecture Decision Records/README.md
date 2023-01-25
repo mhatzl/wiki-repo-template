@@ -1,3 +1,0 @@
-# Architecture Decision Records
-
-This section contains the architecture decision records for the system.
