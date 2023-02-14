@@ -14,24 +14,24 @@ To create system models, you should take a look at [C4](https://c4model.com/), a
 
 This template is tailored to GitHub repositories, but the core concepts work for any project using a version control system.
 
-A short overview on how to use this wiki is given in [README.md](README.md).
+A short overview on how to use this wiki is given in [README.md](README).
 
 ]]]
 
 ### Table of Content
 
 - [Introduction and Goals](#1-introduction-and-goals)
-- [Constraints](2-Constraints.md)
-- [Context and Scope](3-Context-and-Scope.md)
-- [Core and Shared Concepts](4-Core-and-Shared-Concepts.md)
-- [Requirements](5-Requirements/5-Requirements.md)
-- [Quality Assurance](6-Quality-Assurance.md)
-- [Decision Records](7-Decision-Records/7-Decision-Records.md)
-- [Risk and Technical Debt](8-Risk-and-Technical-Debt.md)
-- [Views](9-Views/9-Views.md)
-- [Exchanges](10-Exchanges/10-Exchanges.md)
-- [Templates](11-Templates/11-Templates.md)
-- [Glossary](12-Glossary.md)
+- [Constraints](2-Constraints)
+- [Context and Scope](3-Context-and-Scope)
+- [Core and Shared Concepts](4-Core-and-Shared-Concepts)
+- [Requirements](5-Requirements/5-Requirements)
+- [Quality Assurance](6-Quality-Assurance)
+- [Decision Records](7-Decision-Records/7-Decision-Records)
+- [Risk and Technical Debt](8-Risk-and-Technical-Debt)
+- [Views](9-Views/9-Views)
+- [Exchanges](10-Exchanges/10-Exchanges)
+- [Templates](11-Templates/11-Templates)
+- [Glossary](12-Glossary)
 
 # 1 Introduction and Goals
 
