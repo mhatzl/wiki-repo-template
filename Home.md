@@ -4,7 +4,7 @@ Provide your own short description about your wiki, and the related project here
 
 }}
 
-[[[
+[[
 
 Repository template to manage a GitHub wiki that is synchronized with another GitHub project.\
 This wiki is synchronized with the [project-repo-template](https://github.com/mhatzl/project-repo-template).
@@ -16,7 +16,7 @@ This template is tailored to GitHub repositories, but the core concepts work for
 
 A short overview on how to use this wiki is given in [README.md](README).
 
-]]]
+]]
 
 ### Table of Content
 
@@ -29,9 +29,9 @@ A short overview on how to use this wiki is given in [README.md](README).
 - [Decision Records](7-Decision-Records/7-Decision-Records)
 - [Risk and Technical Debt](8-Risk-and-Technical-Debt)
 - [Views](9-Views/9-Views)
-- [Exchanges](10-Exchanges/10-Exchanges)
-- [Templates](11-Templates/11-Templates)
-- [Glossary](12-Glossary)
+- [Exchanges](Exchanges/Exchanges)
+- [Templates](Templates/Templates)
+- [Glossary](Glossary)
 
 # 1 Introduction and Goals
 
