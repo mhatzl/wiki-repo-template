@@ -1,15 +1,27 @@
-# Wiki that works with the [project-repo-template](https://github.com/mhatzl/project-repo-template)
+# Wiki for the [project-repo-template](https://github.com/mhatzl/project-repo-template)
 
-Repository template to manage GitHub wikis that are synced with other GitHub projects.
+{{
+  
+Provide your own short description about your wiki, and the related project here.
+
+}}
+
+[[[
+
+Repository template to manage a GitHub wiki that is synchronised with another GitHub project.
 
 The structure is loosely related to the [arc42 documentation](https://docs.arc42.org/home/).\
-To create system models, you should take a look at [C4](https://c4model.com/) and the related [Structurizr DSL](https://structurizr.com/).
+To create system models, you should take a look at [C4](https://c4model.com/), and the related [Structurizr DSL](https://structurizr.com/).
+
+This template is tailored to GitHub repositories, but the core concepts work for any project using a version control system.
 
 A short overview on how to use this wiki is given in [README.md](README.md).
 
+]]]
+
 ### Table of Content
 
-- [Introduction and Goals](#introduction-and-goals)
+- [Introduction and Goals](#1-introduction-and-goals)
 - [Constraints](2-Constraints.md)
 - [Context and Scope](3-Context-and-Scope.md)
 - [Core and Shared Concepts](4-Core-and-Shared-Concepts.md)
@@ -18,18 +30,21 @@ A short overview on how to use this wiki is given in [README.md](README.md).
 - [Decision Records](7-Decision-Records/7-Decision-Records.md)
 - [Risk and Technical Debt](8-Risk-and-Technical-Debt.md)
 - [Views](9-Views/9-Views.md)
-- [Exchanges](Exchanges/Exchanges.md)
-- [FAQs](FAQs.md)
-- [Templates](Templates/Templates.md)
-- [Glossary](Glossary.md)
+- [Exchanges](10-Exchanges/10-Exchanges.md)
+- [Templates](11-Templates/11-Templates.md)
+- [Glossary](12-Glossary.md)
 
-# Introduction and Goals
+# 1 Introduction and Goals
 
 
 
 ## Requirements Overview
 
-List and link to the most impactful requirements of the system.
+{{
+  
+List and link to the most impactful 10 to 20 requirements of the system.
+
+}}
 
 ## Quality Goals
 

@@ -1,1 +1,5 @@
-This section contains the active decision records for the system.
+{{
+
+This section contains decision records for the system.
+
+}}
