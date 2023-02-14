@@ -1,5 +1,3 @@
-# Wiki for the [project-repo-template](https://github.com/mhatzl/project-repo-template)
-
 {{
   
 Provide your own short description about your wiki, and the related project here.
@@ -8,7 +6,8 @@ Provide your own short description about your wiki, and the related project here
 
 [[[
 
-Repository template to manage a GitHub wiki that is synchronised with another GitHub project.
+Repository template to manage a GitHub wiki that is synchronized with another GitHub project.\
+This wiki is synchronized with the [project-repo-template](https://github.com/mhatzl/project-repo-template)
 
 The structure is loosely related to the [arc42 documentation](https://docs.arc42.org/home/).\
 To create system models, you should take a look at [C4](https://c4model.com/), and the related [Structurizr DSL](https://structurizr.com/).
