@@ -1,6 +1,6 @@
+# Action to handle CLAs on PRs
 # CLA action description: https://github.com/contributor-assistant/github-action
 name: "CLA Assistant"
-description: "Action to handle CLAs on PRs"
 on:
   issue_comment:
     types: [created]

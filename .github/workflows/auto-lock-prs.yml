@@ -1,5 +1,5 @@
+# Action to automatically lock PRs after they are merged or closed.
 name: "auto-lock PRs"
-description: "Action to automatically lock PRs after they are merged or closed."
 on:
   pull_request_target:
     types: [closed]
