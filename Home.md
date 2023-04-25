@@ -35,7 +35,11 @@ A short overview on how to use this wiki is given in [README.md](README).
 
 # 1 Introduction and Goals
 
+{{
+  
+Give a short introduction about the project.
 
+}}
 
 ## Requirements Overview
 
@@ -47,7 +51,18 @@ List and link to the most impactful 10 to 20 requirements of the system.
 
 ## Quality Goals
 
+{{
+  
+List the 10 to 20 most important quality goals of the system.
 
+}}
 
 ## Stakeholder
 
+{{
+  
+List and briefly describe the identified stakeholders of the system.
+
+**Note:** You might want to create a `persona` section, and link stakeholders to specific personas.
+
+}}
