@@ -8,6 +8,20 @@ To create system models, you should take a look at [C4](https://c4model.com/), a
 
 This template is tailored to GitHub repositories, but the core concepts work for any project using a version control system.
 
+## Template Placeholders
+
+In this template, many sections include placeholder text to provide some guidance of what the section should be about.
+These placeholders are inside `{{ }}` blocks.
+
+Some sections also include example content that is given inside `[[ ]]` blocks.
+
+## GitHub Actions
+
+This template contains the following GitHub actions:
+
+- `auto-lock-prs` ... Used to lock PRs once they are closed
+- `cla` ... Handles contributor license agreements with new contributors
+
 # License
 
 MIT Licensed
