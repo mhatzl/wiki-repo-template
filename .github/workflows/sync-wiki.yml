@@ -16,4 +16,6 @@ jobs:
         # Note: `master` is the default branch for GitHub wikis
         run: |
           git remote add upstream https://github.com/mhatzl/project-repo-template.wiki.git
-          git push --force upstream HEAD:HEAD
+          git fetch upstream
+          git merge --strategy-option=ours upstream/master
+          git push upstream main:master
