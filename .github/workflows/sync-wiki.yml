@@ -13,11 +13,14 @@ jobs:
         with:
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       - name: Add wiki repo and push changes
+
+        # TODO: try to fix "remote: fatal: did not receive expected object 16a4c..." error
+
         # Note: `master` is the default branch for GitHub wikis
-        run: |
-          git config --global user.email "wikibot@yourdomain.com"
-          git config --global user.name "Wiki Template Bot"
-          git remote add upstream https://github.com/mhatzl/project-repo-template.wiki.git
-          git fetch upstream
-          git merge --allow-unrelated-histories --strategy-option=ours upstream/master
-          git push upstream main:master
+        # run: |
+        #   git config --global user.email "wikibot@yourdomain.com"
+        #   git config --global user.name "Wiki Template Bot"
+        #   git remote add upstream https://github.com/mhatzl/project-repo-template.wiki.git
+        #   git fetch upstream
+        #   git merge --allow-unrelated-histories --strategy-option=ours upstream/master
+        #   git push upstream main:master
