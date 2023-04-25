@@ -1,5 +1,5 @@
 {{
 
-Template on how to structure and write requirements.
+Template on how to structure and write a single requirement.
 
 }}
