@@ -15,7 +15,5 @@ jobs:
       - name: Add wiki repo and push changes
         # Note: `master` is the default branch for GitHub wikis
         run: |
-          git push --prune https://github.com/mhatzl/project-repo-template.wiki.git +refs/remotes/origin/main:refs/heads/master
-        # run: |
-        #   git remote add upstream https://github.com/mhatzl/project-repo-template.wiki.git
-        #   git push upstream main:master --force --no-thin --dry-run
+          git remote add upstream https://github.com/mhatzl/project-repo-template.wiki.git
+          git push upstream main:master --force --no-thin --dry-run
