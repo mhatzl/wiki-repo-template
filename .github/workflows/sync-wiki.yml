@@ -1,0 +1,17 @@
+# Synchronize this repository with the project wiki 
+name: "Sync Wiki"
+on: 
+  push:
+    branches:
+      - main
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Add wiki repo and push changes
+        # Note: `master` is the default branch for GitHub wikis
+        run: |
+          git remote add upstream https://github.com/mhatzl/project-repo-template.wiki.git
+          git push upstream main:master
