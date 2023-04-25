@@ -1,18 +1,18 @@
 # Synchronize this repository with the project wiki 
-name: "Sync Wiki"
-on: 
-  push:
-    branches:
-      - main
+# name: "Sync Wiki"
+# on: 
+#   push:
+#     branches:
+#       - main
 
-jobs:
-  sync-wikis:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-        with:
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-      - name: Add wiki repo and push changes
+# jobs:
+#   sync-wikis:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v2
+#         with:
+#           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+#       - name: Add wiki repo and push changes
 
         # TODO: try to fix "remote: fatal: did not receive expected object 16a4c..." error
 
