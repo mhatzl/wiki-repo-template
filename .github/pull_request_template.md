@@ -6,12 +6,12 @@ e.g. closes #1 closes #2 …
 
 ]]
 
-# Describe how you fixed the issue(s)
+# Decisions you made for this PR
 
 {{
 
-Add a clear and concise description about how you fixed the issue(s).
+Add a clear and concise description about your decisions related to this PR.
 
-**Note:** Can be omitted if changes are self-explanatory.
+**Note:** May be omitted if decisions are documented in committed files.
 
 }}
