@@ -1,68 +1,21 @@
-{{
-  
-Provide your own short description about your wiki, and the related project here.
-
-}}
-
-[[
-
-Repository template to manage a GitHub wiki that is synchronized with another GitHub project.\
-This wiki is synchronized with the [project-repo-template](https://github.com/mhatzl/project-repo-template).
-
-The structure is loosely related to the [arc42 documentation](https://docs.arc42.org/home/).\
-To create system models, you should take a look at [C4](https://c4model.com/), and the related [Structurizr DSL](https://structurizr.com/).
-
-This template is tailored to GitHub repositories, but the core concepts work for any project using a version control system.
-
-A short overview on how to use this wiki is given in [README.md](README).
-
-]]
+Development-Wiki for [evident](https://github.com/mhatzl/evident).
 
 ### Table of Content
 
-- [Introduction and Goals](#1-introduction-and-goals)
-- [Constraints](2-Constraints)
-- [Context and Scope](3-Context-and-Scope)
-- [Core and Shared Concepts](4-Core-and-Shared-Concepts)
-- [Requirements](5-Requirements/5-Requirements)
-- [Quality Assurance](6-Quality-Assurance)
-- [Decision Records](7-Decision-Records/7-Decision-Records)
-- [Risk and Technical Debt](8-Risk-and-Technical-Debt)
-- [Views](9-Views/9-Views)
-- [Exchanges](Exchanges/Exchanges)
-- [Templates](Templates/Templates)
+- [Introduction](#introduction)
+- [Goals and Non-Goals](1-Goals-and-Non‐Goals)
+- [Context, Scope and Stakeholder](2-Context,-Scope-and-Stakeholder)
+- [Constraints and Risks](3-Constraints-and-Risks)
+- [System Views](4-System-Views)
+- [Requirements](5-Requirements)
+- [Decision Records](6-Decision-Records)
 - [Glossary](Glossary)
+- [Templates](Templates)
 
-# 1 Introduction and Goals
-
-{{
-  
-Give a short introduction about the project.
-
-}}
-
-## Requirements Overview
+# Introduction
 
 {{
   
-List and link to the most impactful 10 to 20 requirements of the system.
-
-}}
-
-## Quality Goals
-
-{{
-  
-List the 10 to 20 most important quality goals of the system.
-
-}}
-
-## Stakeholder
-
-{{
-  
-List and briefly describe the identified stakeholders of the system.
-
-**Note:** You might want to create a `persona` section, and link stakeholders to specific personas.
+Give a short introduction about the system.
 
 }}
