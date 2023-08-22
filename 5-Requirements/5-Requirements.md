@@ -10,6 +10,12 @@ List and link to the high-level requirements of the system.
 
 }}
 
+[[
+
+- [req:qa](5-REQ-qa) ... Contains requirements about general quality assurance
+
+]]
+
 **Important Active Requirements:**
 
 {{
