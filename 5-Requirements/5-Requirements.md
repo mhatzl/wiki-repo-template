@@ -66,10 +66,12 @@ The description of the requirement.
 
 ## High-level requirements
 
-In addition to the general structure, high-level requirements should contain a section that links to all sub-requirements.
-This helps with navigation through the wiki.
+In addition to the general structure, high-level requirements should contain a section that links to sub-requirements
+that are one level *deeper*. This helps with navigation through the wiki.
 
-**Note:** This section should link to all sub-requirements, because adapting this section would otherwise be too cumbersome.  
+**Note:** This section should link to sub-requirements independent of their phase, because adapting this section would otherwise be too cumbersome.
+
+**Note:** Linking to sub-requirements that are more than one level *deeper* is also too cumbersome to maintain. 
 
 **Note:** To keep pages short, sub-requirements should in general be placed in their own files.
 
