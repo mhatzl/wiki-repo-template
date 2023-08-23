@@ -6,6 +6,6 @@ Description for this requirement
 
 }}
 
-## Active sub-requirements
+## Sub-requirements
 
 - [req:req_id.sub_req_id](5-REQ-req_id.sub_req_id)

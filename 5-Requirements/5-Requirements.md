@@ -2,7 +2,7 @@ This section contains requirements for the system.
 
 ## Requirements Overview
 
-**High-Level Active Requirements:**
+**High-Level Requirements:**
 
 {{
   
@@ -16,7 +16,7 @@ List and link to the high-level requirements of the system.
 
 ]]
 
-**Important Active Requirements:**
+**Important Requirements:**
 
 {{
   
@@ -66,8 +66,10 @@ The description of the requirement.
 
 ## High-level requirements
 
-In addition to the general structure, high-level requirements should contain a section that links to all *active* sub-requirements.
+In addition to the general structure, high-level requirements should contain a section that links to all sub-requirements.
 This helps with navigation through the wiki.
+
+**Note:** This section should link to all sub-requirements, because adapting this section would otherwise be too cumbersome.  
 
 **Note:** To keep pages short, sub-requirements should in general be placed in their own files.
 
@@ -85,7 +87,7 @@ This allows to use [mantra](https://github.com/mhatzl/mantra) to update the link
 
 The description of the high-level requirement.
 
-## Active sub-requirements
+## Sub-requirements
 
 - [req:req_id.sub_req_1](5-REQ-req_id.sub_req_1) ... Optional description for this requirement
 - [req:req_id.sub_req_2](5-REQ-req_id.sub_req_2) ... Optional description for this requirement
