@@ -37,6 +37,30 @@ This template contains the following GitHub actions:
 - `auto-lock-prs` ... Used to lock PRs once they are closed
 - `sync_wiki` ... Automatically pushes changes to the wiki repository of the associated project
 
+## GitHub Issue/PR Labels
+
+Repositories created by GitHub templates do not adopt the issue/PR labels set in the template.
+Instead, each one must be copied manually, which is unfortunate, but must only be done once.
+
+**Below are the [labels](https://github.com/mhatzl/wiki-repo-template/labels) defined in the wiki template:**
+
+- `blocked` ... Marks this PR that it is blocked by another issue/PR (Color: #F83A55)
+- `declined` ... This PR was declined (Color: #ffffff)
+- `waiting-on-assignee` ... PR author or reviewer is awaiting response from assignee (Color: #FEF2C0)
+- `waiting-on-author` ... Assignee or reviewer is awaiting response from PR author (Color: #463F12)
+- `waiting-on-reviewer` ... Author or assignee is awaiting response from reviewer (Color: #E6A2AE)
+
+## GitHub Settings
+
+Repository settings are not adopted from templates, and must be set manually.
+Below are the recommended settings that work well with this wiki template.
+
+**General Settings:**
+
+- **Disable** all features to only allow pull requests
+- Only allow squash merging for pull requests
+- Automatically delete head branches
+
 # License
 
 MIT Licensed
