@@ -13,6 +13,7 @@ This template is tailored to GitHub repositories, but the core concepts work for
 1. Add the wiki repository of your project repository as additional remote (checkout the [sync-wiki action](/.github/workflows/sync-wiki.yml) for more information)
 1. Change the link in [sync-wiki action](/.github/workflows/sync-wiki.yml) to point to your remote project wiki
 1. Adapt the Definition of Done in the [pull request template](/.github/pull_request_template.md)
+1. Optional: Adapt the license to be in sync with the license of your project
 1. Adapt the existing markdown pages (see [template placeholders](#template-placeholders) for more details)
 
 ## Wiki Pages
