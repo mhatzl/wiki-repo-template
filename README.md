@@ -8,6 +8,13 @@ To create system views, you should take a look at [C4](https://c4model.com/), an
 
 This template is tailored to GitHub repositories, but the core concepts work for any project using a version control system.
 
+**Steps to adapt this template.**
+
+1. Add the wiki repository of your project repository as additional remote (checkout the [sync-wiki action](/.github/workflows/sync-wiki.yml) for more information)
+1. Change the link in [sync-wiki action](/.github/workflows/sync-wiki.yml) to point to your remote project wiki
+1. Adapt the Definition of Done in the [pull request template](/.github/pull_request_template.md)
+1. Adapt the existing markdown pages (see [template placeholders](#template-placeholders) for more details)
+
 ## Wiki Pages
 
 GitHub wiki only considers files, and ignores any hierarchy set via folders.
@@ -44,11 +51,11 @@ Instead, each one must be copied manually, which is unfortunate, but must only b
 
 **Below are the [labels](https://github.com/mhatzl/wiki-repo-template/labels) defined in the wiki template:**
 
-- `blocked` ... Marks this PR that it is blocked by another issue/PR (Color: #F83A55)
-- `declined` ... This PR was declined (Color: #ffffff)
-- `waiting-on-assignee` ... PR author or reviewer is awaiting response from assignee (Color: #FEF2C0)
-- `waiting-on-author` ... Assignee or reviewer is awaiting response from PR author (Color: #463F12)
-- `waiting-on-reviewer` ... Author or assignee is awaiting response from reviewer (Color: #E6A2AE)
+- `blocked` ... Marks this PR that it is blocked by another issue/PR (Color: `#F83A55`)
+- `declined` ... This PR was declined (Color: `#ffffff`)
+- `waiting-on-assignee` ... PR author or reviewer is awaiting response from assignee (Color: `#FEF2C0`)
+- `waiting-on-author` ... Assignee or reviewer is awaiting response from PR author (Color: `#463F12`)
+- `waiting-on-reviewer` ... Author or assignee is awaiting response from reviewer (Color: `#E6A2AE`)
 
 ## GitHub Settings
 
