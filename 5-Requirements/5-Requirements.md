@@ -165,7 +165,7 @@ A requirement goes through the following phases:
    ```
    # my_req: Some implemented requirement
    
-   **References**
+   **References:**
 
    - in branch main: 2
    ```
@@ -178,7 +178,7 @@ A requirement goes through the following phases:
    ```
    # high_level: Some implemented high-level requirement
    
-   **References**
+   **References:**
 
    - in branch main: 4 (1 direct)
    ```
@@ -191,7 +191,7 @@ A requirement goes through the following phases:
    ```
    # my_req: Requirement that needs manual verification
    
-   **References**
+   **References:**
 
    - in branch main: manual
    ```
@@ -204,7 +204,7 @@ A requirement goes through the following phases:
    ```
    # my_req: Requirement that needs manual verification, but is also referenced in code
    
-   **References**
+   **References:**
 
    - in branch main: manual + 3
    ```
@@ -223,7 +223,7 @@ A requirement goes through the following phases:
    ```
    # my_req: Got deprecated in latest version
 
-   **References**
+   **References:**
 
    - in branch main: deprecated
    - in branch stable: 2
