@@ -42,7 +42,6 @@ To enforce this, the *issue* tab is deactivated in this template. More precisely
 
 This template contains the following GitHub actions:
 
-- `auto-lock-prs` ... Used to lock PRs once they are closed
 - `sync_wiki` ... Automatically pushes changes to the wiki repository of the associated project
 
 ## GitHub Issue/PR Labels
