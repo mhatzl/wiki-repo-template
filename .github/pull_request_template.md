@@ -1,10 +1,6 @@
 # List of issues that this PR closes
 
-[[
 
-e.g. closes #1 closes #2 …
-
-]]
 
 # Definition of Done
 
@@ -17,12 +13,6 @@ e.g. closes #1 closes #2 …
 
 **Note:** You may ignore tasks that are not relevant to your PR.
 
-# Decisions you made for this PR
+# Relevant decisions you made in this PR
 
-{{
 
-Add a clear and concise description about your decisions related to this PR.
-
-**Note:** May be omitted if decisions are documented in committed files.
-
-}}
