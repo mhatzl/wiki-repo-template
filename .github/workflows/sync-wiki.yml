@@ -1,9 +1,11 @@
 # Synchronize this repository with the project wiki 
 name: "sync-wikis"
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch:
+  # uncomment once PAT token is set for checkout action below
+  # push:
+  #   branches:
+  #     - main
 
 jobs:
   sync-wikis:
