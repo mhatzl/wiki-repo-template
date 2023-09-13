@@ -1,8 +1,8 @@
-# List of issues that this PR closes
+## List of issues that this PR closes
 
 
 
-# Definition of Done
+## Definition of Done
 
 **Please consider the following tasks when adding new requirements:**
 
@@ -13,6 +13,6 @@
 
 **Note:** You may ignore tasks that are not relevant to your PR.
 
-# Relevant decisions you made in this PR
+## Relevant decisions you made in this PR
 
 
